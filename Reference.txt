@@ -1,0 +1,23 @@
+hackerrank
+hacerearth
+
+Books
+
+head first java
+head first servlets and jsp
+
+hibernate in action
+spring in action
+
+Must Read
+Effective java
+Java best practices
+OOPs best practices
+
+theserverside.com
+thebeginnersbook.com
+java2s.com
+xyzws.com
+journaldev
+sanfoundry
+indiabix
